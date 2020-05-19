@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "LiftesFeladat/1.0.0": {
+        "runtime": {
+          "LiftesFeladat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiftesFeladat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
