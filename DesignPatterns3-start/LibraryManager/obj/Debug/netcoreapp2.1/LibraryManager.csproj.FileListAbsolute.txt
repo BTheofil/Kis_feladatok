@@ -1,0 +1,30 @@
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DP-kiind-NetCore\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.deps.json
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DP-kiind-NetCore\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.runtimeconfig.json
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DP-kiind-NetCore\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.runtimeconfig.dev.json
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DP-kiind-NetCore\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.dll
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DP-kiind-NetCore\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.pdb
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DP-kiind-NetCore\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.csprojAssemblyReference.cache
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DP-kiind-NetCore\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.AssemblyInfoInputs.cache
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DP-kiind-NetCore\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.AssemblyInfo.cs
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DP-kiind-NetCore\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.dll
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DP-kiind-NetCore\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.pdb
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DesignPatterns3-start\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.deps.json
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DesignPatterns3-start\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.runtimeconfig.json
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DesignPatterns3-start\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.runtimeconfig.dev.json
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DesignPatterns3-start\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.dll
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DesignPatterns3-start\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.pdb
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DesignPatterns3-start\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.csprojAssemblyReference.cache
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DesignPatterns3-start\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.AssemblyInfoInputs.cache
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DesignPatterns3-start\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.AssemblyInfo.cs
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DesignPatterns3-start\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.dll
+d:\Data\Tanszék\Oktatott targyak\Szoftvertechnológia és -technikák\Gyakorlat\09 Command, Memento, Adapter (Asztalos Márk)\bz-tisztázva\DesignPatterns3-start\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.pdb
+D:\__work\xabhev\DesignPatterns3-start\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.deps.json
+D:\__work\xabhev\DesignPatterns3-start\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.runtimeconfig.json
+D:\__work\xabhev\DesignPatterns3-start\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.runtimeconfig.dev.json
+D:\__work\xabhev\DesignPatterns3-start\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.dll
+D:\__work\xabhev\DesignPatterns3-start\LibraryManager\bin\Debug\netcoreapp2.1\LibraryManager.pdb
+D:\__work\xabhev\DesignPatterns3-start\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.csprojAssemblyReference.cache
+D:\__work\xabhev\DesignPatterns3-start\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.AssemblyInfoInputs.cache
+D:\__work\xabhev\DesignPatterns3-start\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.AssemblyInfo.cs
+D:\__work\xabhev\DesignPatterns3-start\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.dll
+D:\__work\xabhev\DesignPatterns3-start\LibraryManager\obj\Debug\netcoreapp2.1\LibraryManager.pdb

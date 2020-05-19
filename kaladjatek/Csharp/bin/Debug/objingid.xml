@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>objingid</name>
+    </assembly>
+    <members>
+        <member name="T:Softeam.CSharp.objingidAttribute">
+            <exclude/>
+        </member>
+        <member name="F:Softeam.CSharp.objingidAttribute._objingid">
+            <exclude/>
+        </member>
+        <member name="M:Softeam.CSharp.objingidAttribute.#ctor(System.String)">
+            <exclude/>
+        </member>
+        <member name="P:Softeam.CSharp.objingidAttribute.objingid">
+            <exclude/>
+        </member>
+    </members>
+</doc>
